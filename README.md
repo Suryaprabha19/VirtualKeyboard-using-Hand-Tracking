@@ -7,7 +7,7 @@ This project is a Python-based **Virtual Keyboard** that uses **hand gestures** 
 
 > 👇 Hover your index finger over a key and pinch it with your thumb to simulate a keypress.
 
-![Virtual Keyboard Demo](screenshot.png)  
+![Virtual Keyboard Demo](Screenshot.png)  
 
 ---
 
